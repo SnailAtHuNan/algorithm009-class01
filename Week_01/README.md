@@ -2,3 +2,4 @@
 测试一下，往github上提交文档
 测试我的 公钥，私钥，是否好使
 测试git push 没有其他参数
+why need to enter acount and password
