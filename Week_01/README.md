@@ -1,5 +1,1 @@
-学习笔记
-测试一下，往github上提交文档
-测试我的 公钥，私钥，是否好使
-测试git push 没有其他参数
-why need to enter acount and password
+这是我第一周的作业，虽然拖欠了很久，有时间了还是得补上
